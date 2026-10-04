@@ -1,0 +1,2 @@
+requests==2.32.5
+bgm-tv-wiki==0.2.5
