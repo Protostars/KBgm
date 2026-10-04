@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "dump_version": "dump-2026-09-29.210336Z",
+  "previous_version": null,
+  "since": "2026-07-01",
+  "generated_at": "2026-10-04T16:05:05+00:00",
+  "archive": {
+    "name": "bgm_extracted.zip",
+    "sha256": "abbf8354c1636503433affdc6ef5eab40297c5acf6d85499dfba60bf356fcaa8",
+    "size": 528332
+  },
+  "source": {
+    "name": "dump-2026-09-29.210336Z.zip",
+    "url": "https://github.com/bangumi/Archive/releases/download/archive/dump-2026-09-29.210336Z.zip",
+    "sha256": "30d41dbbc9375bff4990db86f8f61095335d097cd8fb121e4d4a989dfbf34013",
+    "size": 442776308
+  },
+  "counts": {
+    "anime_profile.tsv": 416,
+    "anime_info.tsv": 416,
+    "anime_source.tsv": 416,
+    "anime_tag.tsv": 1163,
+    "pool_info.tsv": 3409
+  }
+}
