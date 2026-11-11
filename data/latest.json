@@ -1,25 +1,25 @@
 {
   "schema_version": 1,
-  "dump_version": "dump-2026-11-03.210402Z",
-  "previous_version": "dump-2026-10-27.210404Z",
-  "since": "2026-07-29",
-  "generated_at": "2026-11-04T20:17:03+00:00",
+  "dump_version": "dump-2026-11-10.210405Z",
+  "previous_version": "dump-2026-11-03.210402Z",
+  "since": "2026-08-05",
+  "generated_at": "2026-11-11T20:00:17+00:00",
   "archive": {
     "name": "bgm_extracted.zip",
-    "sha256": "6b230c434efc8b339b7eadc4a21e7ad3c66ede41da14ea39339dc418675fa660",
-    "size": 430122
+    "sha256": "25b19cec9d86bdc5bb52daeb6156d1446894b569e44b1bb4308ab242809ff5ef",
+    "size": 426622
   },
   "source": {
-    "name": "dump-2026-11-03.210402Z.zip",
-    "url": "https://github.com/bangumi/Archive/releases/download/archive/dump-2026-11-03.210402Z.zip",
-    "sha256": "c60b418249c8c01d90a2379f916d53e5ce121476a161b1319987a4723f328309",
-    "size": 450262892
+    "name": "dump-2026-11-10.210405Z.zip",
+    "url": "https://github.com/bangumi/Archive/releases/download/archive/dump-2026-11-10.210405Z.zip",
+    "sha256": "caaac0ea65e38def9c811aa3b748c8bf7b35287928ef688069343c2970c2675d",
+    "size": 451238635
   },
   "counts": {
-    "anime_profile.tsv": 362,
-    "anime_info.tsv": 362,
-    "anime_source.tsv": 362,
-    "anime_tag.tsv": 903,
-    "pool_info.tsv": 2467
+    "anime_profile.tsv": 355,
+    "anime_info.tsv": 355,
+    "anime_source.tsv": 355,
+    "anime_tag.tsv": 894,
+    "pool_info.tsv": 2407
   }
 }
